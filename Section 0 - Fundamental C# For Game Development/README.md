@@ -57,5 +57,6 @@ Welcome to the Fundamental C# for Game Development section of the Unity Game Dev
 2. Open the project in Unity by navigating to the project folder.
 3. Each lecture's script is available under the `Assets` folder for study and experimentation.
    
-![Fundamentals of C#](https://github.com/user-attachments/assets/68b7a92e-af23-4428-bc2e-35889f6ccc8c)
+![maxresdefault](https://github.com/user-attachments/assets/632c2795-0dfc-42c2-b1e9-84a4485f8ae9)
+
 
