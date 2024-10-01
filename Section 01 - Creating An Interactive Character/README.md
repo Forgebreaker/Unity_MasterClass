@@ -2,6 +2,8 @@
 
 In this section, you will learn how to create an interactive character in Unity, spanning essential concepts and tools necessary for character development.
 
+[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7246853884558606336
+
 ## Key Topics Covered:
 - **Unity User Interface**: Introduction to the UI for efficient workflow.
 - **Lighting**: Basics of scene lighting to enhance character visuals.
