@@ -170,32 +170,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4048995951470998722, guid: ea4b4da73b3be0b47addadfbc1de7f91, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 1f44ae875f9a248469d736a6f24799e5, type: 2}
-    - target: {fileID: 4703261189582509138, guid: ea4b4da73b3be0b47addadfbc1de7f91, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 0799c0fca43b43549b92dbbb57355b63, type: 2}
     - target: {fileID: 5548956585812284583, guid: ea4b4da73b3be0b47addadfbc1de7f91, type: 3}
       propertyPath: m_Name
       value: Among Us
       objectReference: {fileID: 0}
-    - target: {fileID: 5548956585812284583, guid: ea4b4da73b3be0b47addadfbc1de7f91, type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 7118643296820343877, guid: ea4b4da73b3be0b47addadfbc1de7f91, type: 3}
-      propertyPath: m_Intensity
-      value: 0.5
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 1563502155757883311, guid: ea4b4da73b3be0b47addadfbc1de7f91, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 347538822}
+    m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea4b4da73b3be0b47addadfbc1de7f91, type: 3}
 --- !u!1 &42294035
@@ -618,113 +599,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 340293475}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &347538821
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 347538822}
-  - component: {fileID: 347538825}
-  - component: {fileID: 347538824}
-  - component: {fileID: 347538823}
-  m_Layer: 0
-  m_Name: Capsule
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &347538822
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347538821}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.951313, y: 0.951313, z: 0.951313}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1097049259}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &347538823
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347538821}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Height: 2
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!23 &347538824
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347538821}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: e839b24ffa542804aa194009c3b94e86, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &347538825
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347538821}
-  m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &348111348
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -796,7 +670,7 @@ GameObject:
   - component: {fileID: 354169845}
   - component: {fileID: 354169849}
   m_Layer: 0
-  m_Name: Cube (27)
+  m_Name: Green Teleport Point B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -915,7 +789,7 @@ GameObject:
   - component: {fileID: 423347152}
   - component: {fileID: 423347156}
   m_Layer: 0
-  m_Name: Cube (22)
+  m_Name: Blue Teleport Point B
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2200,11 +2074,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6919d536e89386040a93fcf31b963cc8, type: 3}
---- !u!4 &1097049259 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1563502155757883311, guid: ea4b4da73b3be0b47addadfbc1de7f91, type: 3}
-  m_PrefabInstance: {fileID: 39560734}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1121734284
 GameObject:
   m_ObjectHideFlags: 0
@@ -2370,7 +2239,7 @@ GameObject:
   - component: {fileID: 1265279519}
   - component: {fileID: 1265279523}
   m_Layer: 0
-  m_Name: Cube (20)
+  m_Name: Green Teleport Point A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3518,7 +3387,7 @@ GameObject:
   - component: {fileID: 1805612671}
   - component: {fileID: 1805612675}
   m_Layer: 0
-  m_Name: Cube (21)
+  m_Name: Blue Teleport Point A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
