@@ -866,8 +866,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Section 01 - Creating An Interactive Character
-  metroPackageVersion: 
+  metroPackageName: Section01-CreatingAnInteractiveCharacter
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -875,7 +875,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Section 01 - Creating An Interactive Character
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Section 01 - Creating An Interactive Cha
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
