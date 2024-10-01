@@ -1,11 +1,15 @@
-# Fundamental C# for Game Development
+# Creating An Interactive Character
 
-This module is designed to equip you with the essential C# programming skills needed to create engaging and efficient games in Unity.
+In this section, you will learn how to create an interactive character in Unity, spanning essential concepts and tools necessary for character development.
 
-## How to Use
-1. Clone the repository to your local machine.
-2. Open the project in Unity by navigating to the project folder.
-3. Each lecture's script is available under the `Assets` folder for study and experimentation.
-4. Each tank contains a script of a lecture. The robot holds the player's script, which is used for Lectures 12, 14, and 16.
+## Key Topics Covered:
+- **Unity User Interface**: Introduction to the UI for efficient workflow.
+- **Lighting**: Basics of scene lighting to enhance character visuals.
+- **C# Basics**: Variables, functions, and code structuring for game scripts.
+- **Scripting**: How to create and execute scripts within Unity.
+- **Physics**: Handling collisions and triggers using Rigidbody.
+- **Character Movement**: Utilizing CharacterController for movement and jumping logic.
+- **Asset Management**: Working with prefabs and importing custom assets.
+- **Audio**: Integrating sound into character interactions.
    
-![Screenshot 2024-09-29 220856](https://github.com/user-attachments/assets/14ef2156-5993-494f-ae23-6c1db9ccf009)
+![Screenshot 2024-10-01 143248](https://github.com/user-attachments/assets/feda1ddb-a4e9-4b34-8438-6d80f72bb387)
