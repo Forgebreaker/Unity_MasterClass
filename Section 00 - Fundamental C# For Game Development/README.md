@@ -1,6 +1,6 @@
 # Fundamental C# for Game Development
 
-This module is designed to equip you with the essential C# programming skills needed to create engaging and efficient games in Unity.
+This section is designed to equip you with the essential C# programming skills needed to create engaging and efficient games in Unity.
 
 ## How to Use
 1. Clone the repository to your local machine.
