@@ -8,8 +8,6 @@ In this section, you will explore the development of a topdown shooter game in U
 
 - **Scene Hierarchy**: Parenting objects within the Unity scene to establish a structured game environment.
 
-- **2D to 3D Movement**: Transitioning character movement from 2D to 3D perspectives and orienting characters towards their movement direction.
-
 - **Mouse Position Rotation**: Techniques for rotating the character based on mouse cursor positioning to aim effectively.
 
 - **Bullet Prefabs**: Creating and managing bullet prefabs for shooting mechanics.
