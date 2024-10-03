@@ -139,6 +139,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21340886}
     - target: {fileID: 123782255153125473, guid: 6a2896d067b3a8e4e81bfa0724ed8a42, type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 1374728324536399941, guid: 62c9a2d08807ebe43a2e2486356960f1, type: 3}
+    - target: {fileID: 123782255153125473, guid: 6a2896d067b3a8e4e81bfa0724ed8a42, type: 3}
       propertyPath: shootCoolDown
       value: 1
       objectReference: {fileID: 0}
@@ -602,6 +606,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21340886}
     - target: {fileID: 123782255153125473, guid: 6a2896d067b3a8e4e81bfa0724ed8a42, type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 1374728324536399941, guid: bccd4cece99521f47b38ffd824a3f6a1, type: 3}
+    - target: {fileID: 123782255153125473, guid: 6a2896d067b3a8e4e81bfa0724ed8a42, type: 3}
       propertyPath: shootCoolDown
       value: 0.5
       objectReference: {fileID: 0}
@@ -655,11 +663,11 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 54eb0a880c35ecd4fa56b3b6c33e8aaa, type: 2}
     - target: {fileID: 9006825578692075724, guid: 6a2896d067b3a8e4e81bfa0724ed8a42, type: 3}
       propertyPath: m_Pitch
-      value: 0.5
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 9006825578692075724, guid: 6a2896d067b3a8e4e81bfa0724ed8a42, type: 3}
       propertyPath: m_Volume
-      value: 0.25
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -793,6 +801,7 @@ MonoBehaviour:
   jumpForce: 3
   HandHoldWeapon: {fileID: 1415599071}
   InteractableObject: {fileID: 0}
+  IsEquiping: 0
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
