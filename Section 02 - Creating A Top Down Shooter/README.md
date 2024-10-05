@@ -2,7 +2,7 @@
 
 In this section, you will explore the development of a topdown shooter game in Unity, covering essential gameplay mechanics and integration techniques to bring the game environment to life.
 
-[Gameplay Video] [https://www.linkedin.com/feed/update/urn:li:ugcPost:7247567070341525504/](https://www.linkedin.com/feed/update/urn:li:ugcPost:7248146097582354432/](https://www.linkedin.com/feed/update/urn:li:ugcPost:7248146097582354432/)
+[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:ugcPost:7247567070341525504/
 
 ## Key Topics Covered:
 
