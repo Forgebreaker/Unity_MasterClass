@@ -2,7 +2,7 @@
 
 In this class, I delved into crafting intelligent and reactive AI systems using Unity for a stealth-based game. I also learned how to implement sophisticated navigation systems and design AI behaviors that challenge players while keeping the gameplay engaging and dynamic.
 
-[Gameplay Video](https://www.example.com)
+[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7248687207438258176/
 
 ## Key Topics Covered:
 
