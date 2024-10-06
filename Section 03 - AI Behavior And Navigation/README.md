@@ -2,7 +2,7 @@
 
 In this class, I delved into crafting intelligent and reactive AI systems using Unity for a stealth-based game. I also learned how to implement sophisticated navigation systems and design AI behaviors that challenge players while keeping the gameplay engaging and dynamic.
 
-[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7248687207438258176/
+[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7248742438280859648/
 
 ## Key Topics Covered:
 
@@ -22,6 +22,6 @@ In this class, I delved into crafting intelligent and reactive AI systems using 
 
 - **Damage to Enemies**: Allowing the player to damage AI characters, incorporating health reductions and feedback mechanisms like animations or sounds.
 
-![image](https://github.com/user-attachments/assets/ba7266e2-e201-481d-8077-ae59db77fe06)
+![image](https://github.com/user-attachments/assets/6d648945-c454-4660-a8bc-f639ce7249bb)
 
 
