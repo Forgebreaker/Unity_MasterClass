@@ -1,6 +1,6 @@
 # AI Behavior & Navigation
 
-In this class, I delved into crafting intelligent and reactive AI systems using Unity for a stealth-based game. I also learned how to implement sophisticated navigation systems and design AI behaviors that challenge players while keeping the gameplay engaging and dynamic.
+In this section, I delved into crafting intelligent and reactive AI systems using Unity for a stealth-based game. I also learned how to implement sophisticated navigation systems and design AI behaviors that challenge players while keeping the gameplay engaging and dynamic.
 
 [Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7248742438280859648/
 
