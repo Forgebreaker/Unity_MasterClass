@@ -2922,7 +2922,7 @@ Transform:
   m_GameObject: {fileID: 1584030555}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.3, y: 1.0752324, z: -4}
+  m_LocalPosition: {x: -10.3, y: 1.0752324, z: -2.87}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2988,7 +2988,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6c196c7188cb7314cb4fc62a41ccad77, type: 2}
+  - {fileID: 2100000, guid: 7a453bae213a8b04b9e9f8adb81cc8be, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3698,7 +3698,7 @@ MonoBehaviour:
   Player: {fileID: 0}
   PatrolPoint_Start: {fileID: 937765917}
   PatrolPoint_End: {fileID: 1978714132}
-  CurrentPatrolPoint: {fileID: 100008, guid: 7075bd5fe1480184695a32611c15da57, type: 3}
+  CurrentPatrolPoint: {fileID: 0}
   HuntingRadius: 7.5
   DieEffect: {fileID: 100008, guid: 7075bd5fe1480184695a32611c15da57, type: 3}
   CurrentHealth: 100
@@ -3711,7 +3711,7 @@ NavMeshAgent:
   m_GameObject: {fileID: 1882396016}
   m_Enabled: 1
   m_AgentTypeID: 0
-  m_Radius: 0.5000001
+  m_Radius: 0.1
   m_Speed: 4
   m_Acceleration: 8
   avoidancePriority: 50
