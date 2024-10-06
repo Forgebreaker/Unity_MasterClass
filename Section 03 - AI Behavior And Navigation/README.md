@@ -1,36 +1,27 @@
-# Creating A Top Down Shooter
+# AI Behavior & Navigation
 
-In this section, you will explore the development of a topdown shooter game in Unity, covering essential gameplay mechanics and integration techniques to bring the game environment to life.
+In this class, I delved into crafting intelligent and reactive AI systems using Unity for a stealth-based game. I also learned how to implement sophisticated navigation systems and design AI behaviors that challenge players while keeping the gameplay engaging and dynamic.
 
-[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7248146225814728706/
+[Gameplay Video](https://www.example.com)
 
 ## Key Topics Covered:
 
-- **Scene Hierarchy**: Parenting objects within the Unity scene to establish a structured game environment.
+- **Canvas UI Health**: Implementing a health display using Unity's UI system to give real-time feedback to players.
 
-- **Mouse Position Rotation**: Techniques for rotating the character based on mouse cursor positioning to aim effectively.
+- **Enemy States & Enums**: Defining various enemy states (like patrolling, chasing, alert) using enumerations to manage AI behaviors effectively.
 
-- **Bullet Prefabs**: Creating and managing bullet prefabs for shooting mechanics.
+- **NavMesh Baking**: Techniques for setting up and optimizing NavMesh in Unity to enable complex AI pathfinding.
 
-- **Gun Prefabs and Bullet Spawn**: Designing gun prefabs and setting up the mechanics for bullet spawning to simulate shooting.
+- **NavMesh Agent**: Configuring NavMesh agents to navigate the game world intelligently, avoiding obstacles and seeking the player.
 
-- **Bullet Dynamics**: Mechanics of bullet trajectories, spawning, and impacts.
+- **Setting up AI Patrolling Behavior**: Creating a patrolling route for enemies using waypoints and making the patrol behavior customizable.
 
-- **Shooting Mechanics**: Implementing rotation and firing mechanics that align with player controls.
+- **AI Range & Radius Checking**: Implementing range and radius checks for AI to detect the player and engage or disengage based on specific conditions.
 
-- **Cooldown and Ammo**: Developing systems to manage shooting cooldowns and ammunition tracking for gameplay balance.
+- **Damage to Player**: Scripting interactions where the AI can harm the player, decreasing health based on various factors like attack type or AI level.
 
-- **UI and Ammo Display**: Constructing a user interface to display ammo counts and other gameplay elements.
+- **Damage to Enemies**: Allowing the player to damage AI characters, incorporating health reductions and feedback mechanisms like animations or sounds.
 
-- **Target Destructibility**: Making targets destructible and applying dynamic textures to enhance visual feedback.
+![image](https://github.com/user-attachments/assets/ba7266e2-e201-481d-8077-ae59db77fe06)
 
-- **Audio Feedback**: Integrating sound effects to accompany gunshots and reload actions to enrich player experience.
-
-- **Ammo Management**: Effective management of ammunition through interactive crates and class-based access.
-
-- **Advanced Weapon Handling**: Detailed discussion on dynamic weapon handling including equipping and unequipping.
-
-- **Expanding Arsenal**: Extending the game's arsenal with new weapons and concluding insights into the development process.
-
-![image](https://github.com/user-attachments/assets/2ef70c3c-20da-4307-bbf0-22cc8e324dd4)
 
