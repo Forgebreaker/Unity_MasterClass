@@ -1,27 +1,21 @@
-# AI Behavior & Navigation
+# Raycasting, Animation Timeline & Animator
 
-In this section, I delved into crafting intelligent and reactive AI systems using Unity for a stealth-based game. I also learned how to implement sophisticated navigation systems and design AI behaviors that challenge players while keeping the gameplay engaging and dynamic.
+In this section, I explored advanced techniques in Unity involving raycasting, navigation mesh (NavMesh) baking, and sophisticated animation systems. I learned to seamlessly integrate camera movements, animate 3D models, and manipulate game object interactions to create a more interactive and immersive game environment.
 
-[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7248742438280859648/
+[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7249772029514543104/
 
 ## Key Topics Covered:
 
-- **Canvas UI Health**: Implementing a health display using Unity's UI system to give real-time feedback to players.
-
-- **Enemy States & Enums**: Defining various enemy states (like patrolling, chasing, alert) using enumerations to manage AI behaviors effectively.
-
-- **NavMesh Baking**: Techniques for setting up and optimizing NavMesh in Unity to enable complex AI pathfinding.
-
-- **NavMesh Agent**: Configuring NavMesh agents to navigate the game world intelligently, avoiding obstacles and seeking the player.
-
-- **Setting up AI Patrolling Behavior**: Creating a patrolling route for enemies using waypoints and making the patrol behavior customizable.
-
-- **AI Range & Radius Checking**: Implementing range and radius checks for AI to detect the player and engage or disengage based on specific conditions.
-
-- **Damage to Player**: Scripting interactions where the AI can harm the player, decreasing health based on various factors like attack type or AI level.
-
-- **Damage to Enemies**: Allowing the player to damage AI characters, incorporating health reductions and feedback mechanisms like animations or sounds.
-
-![image](https://github.com/user-attachments/assets/6d648945-c454-4660-a8bc-f639ce7249bb)
-
-
+- **Raycasting: Camera to Mouse Position** - Learning how to cast rays from the camera to the mouse position to interact with the game environment.
+- **NavMesh Baking & NavMesh Agent** - Techniques for creating and optimizing NavMesh in Unity for efficient AI pathfinding.
+- **Click Visualization** - Implementing visual feedback for mouse clicks within the game scene.
+- **Camera Movement** - Advanced methods for smooth and responsive camera controls.
+- **Importing 3D Models** - Techniques for integrating 3D models into Unity.
+- **Animation Timeline** - Utilizing Unity’s timeline features to orchestrate complex animations.
+- **Animation Events** - Scripting events that trigger during animations to enhance gameplay mechanics.
+- **Animator** - Setting up and configuring Unity's Animator to control character animations dynamically.
+- **Raycasting: GameObject to GameObject** - Techniques for raycasting between objects to facilitate interaction.
+- **Enums Player States** - Using enumerations to define player states and manage game behaviors effectively.
+- **Applying Damage** - Scripting damage interactions and wrapping up the session’s content.
+  
+![Screenshot 2024-10-09 193651](https://github.com/user-attachments/assets/da2d1033-a885-41bb-a52c-2545c660320b)
