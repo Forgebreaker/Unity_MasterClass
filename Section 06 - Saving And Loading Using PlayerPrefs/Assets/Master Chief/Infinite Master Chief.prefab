@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7391049271529116202
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.34946
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.34946
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.34946
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.907
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.6742
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.0496
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_Name
+      value: Infinite Master Chief
+      objectReference: {fileID: 0}
+    - target: {fileID: 1630794972795428178, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: d864da467fb749c47a8818bb2840446d, type: 2}
+    - target: {fileID: 1630794972795428178, guid: bf751e830899287448939c64ad7df36e, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: f36e7840bd4d06a45a04a9238b34f063, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bf751e830899287448939c64ad7df36e, type: 3}
