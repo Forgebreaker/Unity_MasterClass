@@ -1,28 +1,27 @@
-# Saving & Loading Using PlayerPrefs
+# Controller Input, Local Multiplayer & VFX
 
-In this section, I dived deep into the intricacies of saving and loading game states using Unity’s PlayerPrefs. This critical functionality ensures a seamless user experience by preserving player progress and settings between game sessions.
+In this section, I delved into the foundational elements of game development focusing on controller inputs, local multiplayer experiences, and visually stunning effects using Unity.
 
 [Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7251982893680324611/
 
 ## Key Topics Covered:
 
-- **Introduction to Saving & Loading**: An overview of the PlayerPrefs system in Unity for managing game state.
+- **Project Settings**: Getting started with setting up controller input for 2 players.
 
-- **Setting Up Project & Player Assets**: Organizing and preparing the essential assets and settings for gameplay.
+- **Creating the Scene & Player Logic**: Developing the main gameplay mechanics.
 
-- **Player Logics Implementation**: Coding the core logic for player actions and interactions.
+- **Creating 2 Players**: Configuring the game for local multiplayer.
 
-- **Enemy Setup and Logic**: Establishing enemy characters and their behaviors in the game.
+- **Player Model & Animations**: Integrating animations with player actions.
 
-- **Animation and Movement Logic**: Enhancing the fluidity and responsiveness of animations and movements.
+- **Implementing Bullet Shooting**: Coding behaviors for bullet.
 
-- **State and Weak Point Management**: Implementing logic for enemy states and vulnerabilities.
+- **Particle Emitter & Bullet VFX**: Developing detailed visual effects for gameplay.
 
-- **Collectibles**: Adding game elements that players can collect.
+- **Handling Collisions & Explosions**: Implementing realistic VFX for interactive gameplay.
   
-- **Singleton Pattern for Game Management**: Utilizing the singleton pattern for efficient game management across scenes.
+- **Player Death and Respawn**: Managing animations and logics for player lifecycle.
   
-- **Saving & Loading Game Elements**: Detailed techniques for persisting various game elements like coins and zombies.
+- **UI and Event Handling**: Setting up user interfaces and game event systems.
 
-
-![Screenshot 2024-10-15 224134](https://github.com/user-attachments/assets/d2f0ef60-9d08-4a63-9a7c-b7d18b00df29)
+![image](https://github.com/user-attachments/assets/2e73fea3-b242-43d5-8062-73708f003e4e)
