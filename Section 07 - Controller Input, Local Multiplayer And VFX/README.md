@@ -2,7 +2,7 @@
 
 In this section, I delved into the foundational elements of game development focusing on controller inputs, local multiplayer experiences, and visually stunning effects using Unity.
 
-[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7251982893680324611/
+[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7253026435257315329/
 
 ## Key Topics Covered:
 
